@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=1_Power.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=1_Power.SchDoc|FileName=2_MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=1_Power.SchDoc|FileName=3_Sensors.SchDoc|SheetNumber=3
